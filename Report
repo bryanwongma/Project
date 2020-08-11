@@ -1,0 +1,465 @@
+{
+    "type": "bubble",
+    "size": "giga",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Top Sales",
+          "weight": "bold",
+          "color": "#1DB446",
+          "size": "sm"
+        },
+        {
+          "type": "text",
+          "text": "Sales Report",
+          "weight": "bold",
+          "size": "xxl",
+          "margin": "md"
+        },
+        {
+          "type": "text",
+          "text": "Sale total 2019",
+          "size": "xs",
+          "color": "#aaaaaa",
+          "wrap": true
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "image",
+              "url": "https://storage.googleapis.com/th-zygen.appspot.com/Demo/ISUZU_BANNER.png",
+              "size": "3xl",
+              "aspectRatio": "2.5:1"
+            }
+          ],
+          "margin": "md"
+        },
+        {
+          "type": "separator",
+          "margin": "xxl"
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Top Provinces",
+              "weight": "bold"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "1 Bangkok",
+                  "weight": "bold",
+                  "margin": "md"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "น้ำอัดลม",
+                      "flex": 3,
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "10,000 ลัง",
+                      "align": "end"
+                    }
+                  ],
+                  "margin": "md"
+                },
+                {
+                  "type": "separator",
+                  "color": "#C3C3C3",
+                  "margin": "md"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "น้ำแร่",
+                      "flex": 3,
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "8,500 ลัง",
+                      "align": "end"
+                    }
+                  ],
+                  "margin": "md"
+                },
+                {
+                  "type": "separator",
+                  "color": "#C3C3C3",
+                  "margin": "md"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "น้ำชาเขียว",
+                      "wrap": true,
+                      "flex": 3
+                    },
+                    {
+                      "type": "text",
+                      "text": "6,900 ลัง",
+                      "align": "end"
+                    }
+                  ],
+                  "margin": "md"
+                }
+              ],
+              "margin": "md",
+              "borderWidth": "1px",
+              "borderColor": "#FFE1E1",
+              "cornerRadius": "3px",
+              "flex": 1,
+              "paddingAll": "4px",
+              "backgroundColor": "#FFE1E1"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "2 Chiangmai",
+                  "weight": "bold"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "น้ำอัดลม",
+                      "flex": 3,
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "8,900 ลัง",
+                      "align": "end"
+                    }
+                  ],
+                  "margin": "md"
+                },
+                {
+                  "type": "separator",
+                  "color": "#C3C3C3",
+                  "margin": "md"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "น้ำชามะนาว",
+                      "flex": 3,
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "7,200 ลัง",
+                      "align": "end"
+                    }
+                  ],
+                  "margin": "md"
+                },
+                {
+                  "type": "separator",
+                  "color": "#C3C3C3",
+                  "margin": "md"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "น้ำดื่มให้พลังงาน",
+                      "flex": 3,
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "6,200 ลัง",
+                      "align": "end"
+                    }
+                  ],
+                  "margin": "md"
+                }
+              ],
+              "margin": "md",
+              "borderWidth": "1px",
+              "paddingAll": "4px",
+              "borderColor": "#FFE1E1"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "3 Songkla",
+                  "weight": "bold"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "น้ำแร่",
+                      "flex": 3,
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "8,400 ลัง",
+                      "align": "end"
+                    }
+                  ],
+                  "margin": "md"
+                },
+                {
+                  "type": "separator",
+                  "color": "#C3C3C3",
+                  "margin": "md"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "น้ำอัดลม",
+                      "flex": 3,
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "8,100 ลัง",
+                      "align": "end"
+                    }
+                  ],
+                  "margin": "md"
+                },
+                {
+                  "type": "separator",
+                  "color": "#C3C3C3",
+                  "margin": "md"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "น้ำดื่มให้พลังงาน",
+                      "flex": 3,
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "4,900 ลัง",
+                      "align": "end"
+                    }
+                  ],
+                  "margin": "md"
+                }
+              ],
+              "margin": "md",
+              "borderWidth": "1px",
+              "borderColor": "#FFE1E1",
+              "paddingAll": "4px",
+              "backgroundColor": "#FFE1E1"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "4 Chonburi",
+                  "weight": "bold"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "น้ำดื่มให้พลังงาน",
+                      "flex": 3,
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "6,400 ลัง",
+                      "align": "end"
+                    }
+                  ],
+                  "margin": "md"
+                },
+                {
+                  "type": "separator",
+                  "color": "#C3C3C3",
+                  "margin": "md"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "น้ำชาเขียว",
+                      "flex": 3,
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "6,300 ลัง",
+                      "align": "end"
+                    }
+                  ],
+                  "margin": "md"
+                },
+                {
+                  "type": "separator",
+                  "color": "#C3C3C3",
+                  "margin": "md"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "น้ำแร่",
+                      "flex": 3,
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "6,200 ลัง",
+                      "align": "end"
+                    }
+                  ],
+                  "margin": "md"
+                }
+              ],
+              "margin": "md",
+              "borderWidth": "1px",
+              "borderColor": "#FFE1E1",
+              "paddingAll": "4px"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "5 Khonkaen",
+                  "weight": "bold"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "น้ำอัดลม",
+                      "flex": 3,
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "7,000 ลัง",
+                      "align": "end"
+                    }
+                  ],
+                  "margin": "md"
+                },
+                {
+                  "type": "separator",
+                  "color": "#C3C3C3",
+                  "margin": "md"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "น้ำดื่มให้พลังงาน",
+                      "flex": 3,
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "6,500 ลัง",
+                      "align": "end"
+                    }
+                  ],
+                  "margin": "md"
+                },
+                {
+                  "type": "separator",
+                  "color": "#C3C3C3",
+                  "margin": "md"
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "น้ำชามะนาว",
+                      "flex": 3,
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "3,900 ลัง",
+                      "align": "end"
+                    }
+                  ],
+                  "margin": "md"
+                }
+              ],
+              "margin": "md",
+              "borderWidth": "1px",
+              "borderColor": "#FFE1E1",
+              "paddingAll": "4px",
+              "backgroundColor": "#FFE1E1"
+            }
+          ]
+        }
+      ]
+    },
+    "styles": {
+      "footer": {
+        "separator": true
+      }
+    }
+  }
